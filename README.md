@@ -4,4 +4,4 @@
 Proses Upload Terlalu Lama Membuat LAPTOP HANG.
 .expo
 .expo-shared
-.node-moadules
+node-modules
