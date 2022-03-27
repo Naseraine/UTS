@@ -1,0 +1,73 @@
+[
+    {
+        "id" : "0",
+        "awal" : "Bakahueni, Lampung",
+        "akhir" : "Merak, Banten",
+        "layanan" : "Ekonomi",
+        "tanggal" : "25/03/2022",
+        "waktu" : "09:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 1,
+        "harga" : 25000,
+    },
+
+    {
+        "id" : "1",
+        "awal" : "Merak, Banten",
+        "akhir" : "Bakauheni, Lampung",
+        "layanan" : "Ekonomi",
+        "tanggal" : "25/03/2022",
+        "waktu" : "15:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 1,
+        "harga" : 25000,
+    },
+
+    {
+        "id" : "2",
+        "awal" : "Panjang, Lampung",
+        "akhir" : "Tanjung Priok, Jakarta",
+        "layanan" : "Ekonomi",
+        "tanggal" : "26/03/2022",
+        "waktu" : "09:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 3,
+        "harga" : 75000,
+    },
+
+    {
+        "id" : "3",
+        "awal" : "Tanjung Priok, Jakarta",
+        "akhir" : "Panjang, Lampung",
+        "layanan" : "Executive",
+        "tanggal" : "26/03/2022",
+        "waktu" : "15:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 2,
+        "harga" : 100000,
+    },
+
+    {
+        "id" : "4",
+        "awal" : "Merak, Banten",
+        "akhir" : "Panjang, Lampung",
+        "layanan" : "Executive",
+        "tanggal" : "27/03/2022",
+        "waktu" : "09:00",
+        "kategori" : "Anak",
+        "jumlah" : 2,
+        "harga" : 100000,
+    },
+
+    {
+        "id" : "5",
+        "awal" : "Panjang, Lampung",
+        "akhir" : "Merak, Banten",
+        "layanan" : "Ekonomi",
+        "tanggal" : "27/03/2022",
+        "waktu" : "15:00",
+        "kategori" : "Anak",
+        "jumlah" : 1,
+        "harga" : 25000,
+    },
+]
